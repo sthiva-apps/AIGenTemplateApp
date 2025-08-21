@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "AIGenTemplateApp"
 include(":app")
+include(":data")
+include(":domain")
  
